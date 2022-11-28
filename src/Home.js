@@ -48,7 +48,7 @@ const Home = () => {
 
             <div className='row'>
                 <div className='col-sm-12'>
-                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi architecto asperiores aut, dolores eaque esse est et fuga harum iure, numquam quas quia quis quos repellendus, sequi suscipit temporibus vel.
+                   Creative space is an area for collaboration and experimentation where wichita state university students, faculty and staff can come together to learn, collaborate and work with various technologies on variety projects. Cspace promotes a superior user experience through innovative services that support the education, cultural, and research needs of the the university and its community partners.C-space is located in the Ablah Library.
                 </div>
             </div>
 
